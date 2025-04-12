@@ -65,7 +65,7 @@ uzmanlık:
 ![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Unturned](https://img.shields.io/badge/-Unturned-0000?style=for-the-badge&logo=github&logoColor=white)
+![Unturned](https://img.shields.io/badge/-Unturned-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
