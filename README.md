@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Hakkımda
+## 🔮 Hakkımda
 
 - 🔭 Şu anda [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) üzerinde çalışıyorum
 - 🌱 .NET, C#, WPF, AES-GCM, Socket API ve güvenlik sistemleri üzerine yoğunlaştım
@@ -18,9 +18,6 @@
 - 🌐 Yakında `necroclient.dev` yayında olacak
 
 ---
-
-## 🔮 Hakkımda
-
 ```yaml
 username: valariya
 yetki: Kod büyücüsü
