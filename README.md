@@ -17,7 +17,6 @@
 - ⚙️ Kendime ait özel .grim modül sistemleri oluşturuyorum
 - 🌐 Yakında `necroclient.dev` yayında olacak
 
----
 ```yaml
 username: valariya
 yetki: Kod büyücüsü
@@ -28,6 +27,7 @@ uzmanlık:
   - GitHub yönetimi ve yapı tasarımı
   - Anti-cheat analiz ve karşı atak sistemleri
 ```
+---
 
 ## 🧩 Projelerim
 
