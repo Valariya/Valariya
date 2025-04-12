@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/nocturned.png" alt="NecronomiconLauncher" width="100%"/>
+  <img src="images/necroclient.png" alt="NecronomiconLauncher" width="100%"/>
 </h1>
 <!-- Valariya's GitHub Profile -->
 
