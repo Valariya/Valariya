@@ -1,7 +1,11 @@
-# 🧙‍♂️ Valariya
-
+<h1 align="center">🧙‍♀️ Valariya</h1>
+<p align="center">
+  <i><b>"Kod bir araç değil, bir tapınaktır."</b></i><br>
+  🧠 Software Architect · 🛠️ Reverse Engineer · ⚔️ Shadow Coder
+</p>
 > Merhaba, ben **Valariya** — karanlığın bilgeliğini kod satırlarına döken bir mimarım. 👁️‍🗨️  
 > Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleriyle ilgileniyorum.
+---
 
 ---
 
@@ -50,15 +54,12 @@
 ![Necronomicon Banner](images/necroclient.png)
 
 
-<!-- Valariya's GitHub Profile -->
 
-<h1 align="center">🧙‍♀️ Valariya</h1>
-<p align="center">
-  <i><b>"Kod bir araç değil, bir tapınaktır."</b></i><br>
-  🧠 Software Architect · 🛠️ Reverse Engineer · ⚔️ Shadow Coder
-</p>
 
----
+
+
+
+
 
 ## 🧩 Tapınaktaki Projeler
 
