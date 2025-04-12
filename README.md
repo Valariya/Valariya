@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="images/nocturned.png" alt="NecronomiconLauncher" width="100%"/>
+</h1>
 <!-- Valariya's GitHub Profile -->
 
 <h1 align="center">🧙‍♀️ Valariya</h1>
