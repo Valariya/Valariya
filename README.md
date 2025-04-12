@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Valariya's GitHub Profile -->
 
 <h1 align="center">🧙‍♀️ Valariya</h1>
