@@ -50,27 +50,15 @@ uzmanlık:
 
 ## ✨ Teknolojiler
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Unturned](https://img.shields.io/badge/-Unturned-000000?style=flat-square)
-
----
-
-## ⚙️ Kullandığım Teknolojiler
-
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unturned](https://img.shields.io/badge/-Unturned-000000?style=for-the-badge)
 
 ---
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
 ## 📫 Bana Ulaş
 
 - 📧 valariya@necroclient.dev
