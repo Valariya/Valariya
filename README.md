@@ -1,71 +1,69 @@
-<!-- Valariya's GitHub Profile -->
+<h1 align="center">
+  <img src="images/banner.png" alt="NecronomiconLauncher" width="100%"/>
+</h1>
 
-<h1 align="center">🧙‍♀️ Valariya</h1>
 <p align="center">
-  <i><b>"Kod bir araç değil, bir tapınaktır."</b></i><br>
-  🧠 Software Architect · 🛠️ Reverse Engineer · ⚔️ Shadow Coder
+  <strong>Modüler, Şifrelenmiş, Lisans Tabanlı Güvenli Launcher Mimarisi</strong><br>
+  .NET & WPF teknolojileri ile geliştirilen modern bir kara yazılım framework'ü.
 </p>
 
 ---
 
-## 🧩 Tapınaktaki Projeler
+## 📖 Hakkında
 
-- 🔥 [**NecronomiconLauncher**](https://github.com/Valariya/NecronomiconLauncher) – Şifreli modül sistemi, HWID doğrulama ve grim yükleyici
-- 🛡️ **BypassX** – Anticheat gözlem & koruma modülü (modüler .grim yapı)
-- 🧛 **Nocturned** – Unturned için özel geliştirilmiş büyüsel injection modülü
-- 🧙‍♂️ **EgguWare Legacy** – Küllerden doğan bilgi kaynağı
+**NecronomiconLauncher**, klasik hile yazılımlarının çok ötesinde bir yapıya sahiptir. Modüler olarak geliştirilen sistem, şifreli `.grim` dosyaları ile çalışan ve yalnızca yetkili kullanıcıların erişebildiği güvenli bir API tabanlı mimari sunar.
 
----
-
-## 🔮 Hakkımda
-
-```yaml
-username: valariya
-yetki: Kod büyücüsü
-uzmanlık:
-  - .NET WPF launcher sistemleri
-  - AES-GCM şifreleme ve inject mekanizmaları
-  - C# grim module mimarisi
-  - GitHub yönetimi ve yapı tasarımı
-  - Anti-cheat analiz ve karşı atak sistemleri
-```
+🔐 Şifreli DLL modülleri  
+🧩 JSON ile uzaktan modül yetkilendirmesi  
+💀 HWID + Lisans Token ile doğrulama  
+📜 Gelişmiş log ve konfigürasyon sistemi  
+🧠 AES-GCM destekli bellek içi çözümleme  
+🌐 Tamamen dış bağlantılı API ile uzaktan kontrol  
+⚔️ Gölge Muhafızları'nın uyanışına hazır olun...
 
 ---
 
-## ⚙️ Kullandığım Teknolojiler
+## ⚙️ Mimarinin Temel Bileşenleri
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valariya&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valariya&layout=compact&theme=radical" height="160"/>
-</p>
+| Katman            | Açıklama |
+|-------------------|----------|
+| **Launcher UI**   | WPF ile geliştirilen kullanıcı arayüzü |
+| **Modül Sistemi** | Şifrelenmiş `.grim` dosyaları (DLL tabanlı) |
+| **Auth API**      | Node.js ile çalışan lisans kontrol sistemi |
+| **Oblivion Loader** | DLL yükleyici / decrypt mekanizması |
+| **LogHelper**     | Uygulama içi gelişmiş log sistemi |
+| **PathHelper**    | Ortamdan bağımsız modül yolu yönetimi |
+| **LangHelper** *(planlandı)* | Çok dilli dil yönetim sistemi |
+| **BypassX** *(beta)* | Özel modüller için altyapı |
 
 ---
 
-## 🧙‍♀️ Sözüm
+## 🚀 Kullanım Akışı
 
-> Kodun gittiği yer kadar güçlüdür onun büyücüsü.
+1. Kullanıcı lisans token ile giriş yapar.
+2. HWID doğrulaması yapılır.
+3. Uygun modüller modül ekranında görüntülenir.
+4. Seçilen modül `.grim` olarak RAM’de açılır, çalıştırılır.
+5. Log sistemi tüm işlemleri kayıt altına alır.
 
-<!--
-**Valariya/Valariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ Güvenlik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Nocturned modülleri**, doğrudan RAM'e çözülür, diskten DLL olarak erişilemez.  
+> Bu sistem sayesinde kaynak kodlar ve modül içeriği tamamen korunur.  
+> Kullanıcılar sadece izin verilen modülleri, sınırlı sürelerde kullanabilir.
+
+---
+
+## 📂 Proje Yapısı
+
+```bash
+📁 modules/         # Şifreli modül dosyaları (.grim)
+📁 src/             # Tüm kaynak kodlar
+├── NecronomiconLauncher/
+│   ├── MainWindow.xaml        # Giriş arayüzü
+│   ├── ModuleWindow.xaml      # Modül ekranı
+│   ├── Helpers/               # Yardımcı sınıflar (LogHelper, ConfigHelper vs)
+│   ├── OblivionLoader.cs      # Şifre çözücü + modül çalıştırıcı
+│   └── App.xaml               # Uygulama başlangıç ayarları
