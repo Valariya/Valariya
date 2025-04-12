@@ -19,6 +19,19 @@
 
 ---
 
+## 🔮 Hakkımda
+
+```yaml
+username: valariya
+yetki: Kod büyücüsü
+uzmanlık:
+  - .NET WPF launcher sistemleri
+  - AES-GCM şifreleme ve inject mekanizmaları
+  - C# grim module mimarisi
+  - GitHub yönetimi ve yapı tasarımı
+  - Anti-cheat analiz ve karşı atak sistemleri
+```
+
 ## 🧩 Projelerim
 
 | Proje | Açıklama |
@@ -26,6 +39,15 @@
 | [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) | Modüler, lisanslı, şifreli WPF tabanlı launcher sistemi |
 | Nocturned Module | AES-GCM şifreli, inject edilebilir dinamik .dll sistemi |
 | BypassX | Anti-anticheat bypass mimarisi (yolda) |
+
+---
+
+## 🧩 Tapınaktaki Projeler
+
+- 🔥 [**NecronomiconLauncher**](https://github.com/Valariya/NecronomiconLauncher) – Şifreli modül sistemi, HWID doğrulama ve grim yükleyici
+- 🛡️ **BypassX** – Anticheat gözlem & koruma modülü (modüler .grim yapı)
+- 🧛 **Nocturned** – Unturned için özel geliştirilmiş büyüsel injection modülü
+- 🧙‍♂️ **EgguWare Legacy** – Küllerden doğan bilgi kaynağı
 
 ---
 
@@ -51,36 +73,6 @@
 > "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
 
 ![Necronomicon Banner](images/necroclient.png)
-
-
-
-
-
-
-
-
-
-## 🧩 Tapınaktaki Projeler
-
-- 🔥 [**NecronomiconLauncher**](https://github.com/Valariya/NecronomiconLauncher) – Şifreli modül sistemi, HWID doğrulama ve grim yükleyici
-- 🛡️ **BypassX** – Anticheat gözlem & koruma modülü (modüler .grim yapı)
-- 🧛 **Nocturned** – Unturned için özel geliştirilmiş büyüsel injection modülü
-- 🧙‍♂️ **EgguWare Legacy** – Küllerden doğan bilgi kaynağı
-
----
-
-## 🔮 Hakkımda
-
-```yaml
-username: valariya
-yetki: Kod büyücüsü
-uzmanlık:
-  - .NET WPF launcher sistemleri
-  - AES-GCM şifreleme ve inject mekanizmaları
-  - C# grim module mimarisi
-  - GitHub yönetimi ve yapı tasarımı
-  - Anti-cheat analiz ve karşı atak sistemleri
-```
 
 ---
 
