@@ -8,6 +8,14 @@
 
 ---
 
+## 📜 Söz
+
+> "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
+
+![Necronomicon Banner](images/necroclient.png)
+
+---
+
 ## 🔮 Hakkımda
 
 - 🔭 Şu anda [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) üzerinde çalışıyorum
@@ -63,14 +71,6 @@ uzmanlık:
 
 - 📧 valariya@necroclient.dev
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kerem-alkan/)
-
----
-
-## 📜 Söz
-
-> "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
-
-![Necronomicon Banner](images/necroclient.png)
 
 ---
 
