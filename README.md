@@ -1,69 +1,50 @@
-<h1 align="center">
-  <img src="images/necroclient.png" alt="NecronomiconLauncher" width="100%"/>
-</h1>
+# 🧙‍♂️ Valariya
 
-<p align="center">
-  <strong>Modüler, Şifrelenmiş, Lisans Tabanlı Güvenli Launcher Mimarisi</strong><br>
-  .NET & WPF teknolojileri ile geliştirilen modern bir kara yazılım framework'ü.
-</p>
+> Merhaba, ben **Valariya** — karanlığın bilgeliğini kod satırlarına döken bir mimarım. 👁️‍🗨️  
+> Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleriyle ilgileniyorum.
 
 ---
 
-## 📖 Hakkında
+## 💼 Hakkımda
 
-**NecronomiconLauncher**, klasik hile yazılımlarının çok ötesinde bir yapıya sahiptir. Modüler olarak geliştirilen sistem, şifreli `.grim` dosyaları ile çalışan ve yalnızca yetkili kullanıcıların erişebildiği güvenli bir API tabanlı mimari sunar.
-
-🔐 Şifreli DLL modülleri  
-🧩 JSON ile uzaktan modül yetkilendirmesi  
-💀 HWID + Lisans Token ile doğrulama  
-📜 Gelişmiş log ve konfigürasyon sistemi  
-🧠 AES-GCM destekli bellek içi çözümleme  
-🌐 Tamamen dış bağlantılı API ile uzaktan kontrol  
-⚔️ Gölge Muhafızları'nın uyanışına hazır olun...
+- 🔭 Şu anda [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) üzerinde çalışıyorum
+- 🌱 .NET, C#, WPF, AES-GCM, Socket API ve güvenlik sistemleri üzerine yoğunlaştım
+- 🧠 "Kod sadece araç değil, bir tapınaktır" felsefesini benimsiyorum
+- 🎮 Özellikle **Unturned** gibi oyunlarda modül geliştiriciliği yapıyorum
+- ⚙️ Kendime ait özel .grim modül sistemleri oluşturuyorum
+- 🌐 Yakında `necroclient.dev` yayında olacak
 
 ---
 
-## ⚙️ Mimarinin Temel Bileşenleri
+## 🧩 Projelerim
 
-| Katman            | Açıklama |
-|-------------------|----------|
-| **Launcher UI**   | WPF ile geliştirilen kullanıcı arayüzü |
-| **Modül Sistemi** | Şifrelenmiş `.grim` dosyaları (DLL tabanlı) |
-| **Auth API**      | Node.js ile çalışan lisans kontrol sistemi |
-| **Oblivion Loader** | DLL yükleyici / decrypt mekanizması |
-| **LogHelper**     | Uygulama içi gelişmiş log sistemi |
-| **PathHelper**    | Ortamdan bağımsız modül yolu yönetimi |
-| **LangHelper** *(planlandı)* | Çok dilli dil yönetim sistemi |
-| **BypassX** *(beta)* | Özel modüller için altyapı |
+| Proje | Açıklama |
+|-------|----------|
+| [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) | Modüler, lisanslı, şifreli WPF tabanlı launcher sistemi |
+| Nocturned Module | AES-GCM şifreli, inject edilebilir dinamik .dll sistemi |
+| BypassX | Anti-anticheat bypass mimarisi (yolda) |
 
 ---
 
-## 🚀 Kullanım Akışı
+## ✨ Teknolojiler
 
-1. Kullanıcı lisans token ile giriş yapar.
-2. HWID doğrulaması yapılır.
-3. Uygun modüller modül ekranında görüntülenir.
-4. Seçilen modül `.grim` olarak RAM’de açılır, çalıştırılır.
-5. Log sistemi tüm işlemleri kayıt altına alır.
-
----
-
-## 🛡️ Güvenlik
-
-> **Nocturned modülleri**, doğrudan RAM'e çözülür, diskten DLL olarak erişilemez.  
-> Bu sistem sayesinde kaynak kodlar ve modül içeriği tamamen korunur.  
-> Kullanıcılar sadece izin verilen modülleri, sınırlı sürelerde kullanabilir.
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Unturned](https://img.shields.io/badge/-Unturned-000000?style=flat-square)
 
 ---
 
-## 📂 Proje Yapısı
+## 📫 Bana Ulaş
 
-```bash
-📁 modules/         # Şifreli modül dosyaları (.grim)
-📁 src/             # Tüm kaynak kodlar
-├── NecronomiconLauncher/
-│   ├── MainWindow.xaml        # Giriş arayüzü
-│   ├── ModuleWindow.xaml      # Modül ekranı
-│   ├── Helpers/               # Yardımcı sınıflar (LogHelper, ConfigHelper vs)
-│   ├── OblivionLoader.cs      # Şifre çözücü + modül çalıştırıcı
-│   └── App.xaml               # Uygulama başlangıç ayarları
+- 📧 valariya@necroclient.dev
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kerem-alkan/)
+
+---
+
+## 📜 Söz
+
+> "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
+
+![Necronomicon Banner](images/necroclient.png)
