@@ -4,14 +4,6 @@
   🧠 Software Architect · 🛠️ Reverse Engineer · ⚔️ Creator of the Necronomicon
 </p> 
 
-> Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleri.
-
----
-
-## 📜 Söz
-
-> "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
-
 ![Necronomicon Banner](images/necroclient.png)
 
 ---
@@ -67,13 +59,6 @@ uzmanlık:
 
 ---
 
-## 📫 Bana Ulaş
-
-- 📧 valariya@necroclient.dev
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kerem-alkan/)
-
----
-
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
@@ -83,6 +68,22 @@ uzmanlık:
 
 ---
 
+## 📫 Bana Ulaş
+
+- 📧 valariya@necroclient.dev
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kerem-alkan/)
+
+---
+
+> Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleri.
+
+---
+
 ## 🧙‍♀️ Sözüm
 
 > Kodun gittiği yer kadar güçlüdür onun büyücüsü.
+
+## 📜 Söz
+
+> "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
+
