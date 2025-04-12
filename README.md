@@ -58,6 +58,16 @@ uzmanlık:
 
 ---
 
+## ⚙️ Kullandığım Teknolojiler
+
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 📫 Bana Ulaş
 
 - 📧 valariya@necroclient.dev
@@ -70,16 +80,6 @@ uzmanlık:
 > "Bilgeliği arayan her kod, karanlık bir kapıyı aralar. Bu kapıdan geçen, sıradan biri olarak dönemez."
 
 ![Necronomicon Banner](images/necroclient.png)
-
----
-
-## ⚙️ Kullandığım Teknolojiler
-
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
