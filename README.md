@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/nocturned.png" alt="Necronomicon Launcher Banner" />
-</p>
 <!-- Valariya's GitHub Profile -->
 
 <h1 align="center">🧙‍♀️ Valariya</h1>
@@ -57,6 +54,15 @@ uzmanlık:
 ## 🧙‍♀️ Sözüm
 
 > Kodun gittiği yer kadar güçlüdür onun büyücüsü.
+<p align="center">
+  <img src="images/nocturned.png" alt="Necronomicon Launcher Banner" />
+</p>
+
+![Necronomicon Launcher Banner](images/banner.png)
+
+<h1 align="center">
+  <img src="images/banner.png" width="100%" alt="Nocturned Banner">
+</h1>
 
 <!--
 **Valariya/Valariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
