@@ -58,10 +58,10 @@ uzmanlık:
   <img src="images/nocturned.png" alt="Necronomicon Launcher Banner" />
 </p>
 
-![Necronomicon Launcher Banner](images/banner.png)
+![Necronomicon Launcher Banner](images/nocturned.png)
 
 <h1 align="center">
-  <img src="images/banner.png" width="100%" alt="Nocturned Banner">
+  <img src="images/nocturned.png" width="100%" alt="Nocturned Banner">
 </h1>
 
 <!--
