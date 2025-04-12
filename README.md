@@ -29,22 +29,15 @@ uzmanlık:
 ```
 ---
 
-## 🧩 Projelerim
+## 🧩 Tapınaktaki Projelerim
 
 | Proje | Açıklama |
 |-------|----------|
-| [NecronomiconLauncher](https://github.com/Valariya/NecronomiconLauncher) | Modüler, lisanslı, şifreli WPF tabanlı launcher sistemi |
-| Nocturned Module | AES-GCM şifreli, inject edilebilir dinamik .dll sistemi |
-| BypassX | Anti-anticheat bypass mimarisi (yolda) |
-
----
-
-## 🧩 Tapınaktaki Projeler
-
-- 🔥 [**NecronomiconLauncher**](https://github.com/Valariya/NecronomiconLauncher) – Şifreli modül sistemi, HWID doğrulama ve grim yükleyici
-- 🛡️ **BypassX** – Anticheat gözlem & koruma modülü (modüler .grim yapı)
-- 🧛 **Nocturned** – Unturned için özel geliştirilmiş büyüsel injection modülü
-- 🧙‍♂️ **EgguWare Legacy** – Küllerden doğan bilgi kaynağı
+| 🔥 [**NecronomiconLauncher**](https://github.com/Valariya/NecronomiconLauncher) | Modüler, lisanslı, şifreli WPF tabanlı launcher sistemi |
+| 🛡️ **BypassX** | Anti-anticheat gözlem & koruma modülü (modüler .grim yapı)|
+| 🧛 **Nocturned** | AES-GCM, Unturned için özel geliştirilmiş büyüsel dinamik injection modülü |
+| 🧙‍♂️ **EgguWare Legacy** | Küllerden doğan bilgi kaynağı |
+> Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleri.
 
 ---
 
@@ -74,14 +67,6 @@ uzmanlık:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kerem-alkan/)
 
 ---
-
-> Sistem mimarileri, şifrelenmiş modüller, lisans tabanlı yapılar ve .NET dünyasında tapınak gibi inşa edilen kod sistemleri.
-
----
-
-## 🧙‍♀️ Sözüm
-
-> Kodun gittiği yer kadar güçlüdür onun büyücüsü.
 
 ## 📜 Söz
 
